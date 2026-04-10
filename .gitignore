@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Data / large local files
+data/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.zip
+
+# Logs / misc
+*.log

@@ -15,4 +15,4 @@ The focus is on rolling train-test evaluation using metrics such as QLIKE and lo
 - `futures_volatility_forecasting.ipynb`
 
 ## Note on data
-Raw market data is not included in this repository. The project uses futures data sourced via Databento, and this repository is intended to show methodology, code structure, and representative results rather than redistribute source data.
+Raw market data is not included in this repository. The project uses futures data sourced via Databento, which has restrictions on redistribution. This repository is intended to show methodology, code structure, and representative results rather than redistribute source data.
